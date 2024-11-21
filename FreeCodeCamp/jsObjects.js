@@ -14,7 +14,8 @@ console.log(myDog["friends"][0]) // Debugger
 console.log(myDog[0]) // undefined
 console.log(myDog.bark) // Bow Bow
 console.log(myDog['bark']) // Bow Bow
-// console.log(myDog[bark]) // it will through an error saying bark is not defined 
+// console.log(myDog[bark]) 
+// it will through an error saying bark is not defined 
 
 // Delete a property from an object 
 console.log(myDog)
