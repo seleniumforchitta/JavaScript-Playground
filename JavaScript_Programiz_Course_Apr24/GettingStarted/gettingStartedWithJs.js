@@ -21,8 +21,8 @@ console.log(typeof(c))
 // BigInt Value
 d = 1234567678n;
 console.log(d, typeof(d))
-
-
+console.log("My first code commit from the ipad web browser")
+// My first code commit from the ipad web browser
 
 
 
