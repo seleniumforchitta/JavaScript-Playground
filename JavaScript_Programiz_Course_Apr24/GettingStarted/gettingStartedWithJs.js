@@ -24,7 +24,9 @@ console.log(d, typeof(d))
 console.log("My first code commit from the ipad web browser")
 // My first code commit from the ipad web browser
 
+console.log("changes while working in vscode from safari broswer");
 
-
+// This is my code changes while working in vscode from safari broswer
+// and looks like we donot need a another local tab like codespace while using in chrome
 
 
